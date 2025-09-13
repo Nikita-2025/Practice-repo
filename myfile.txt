@@ -1,1 +1,3 @@
 Hii this is nikita 1st file
+Hii this is my 2nd line in myfile.txt
+Hii this is my third line in myfile.txt
